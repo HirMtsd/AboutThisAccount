@@ -3,6 +3,9 @@
 - GitHub (This Site)
 https://github.com/HirMtsd
 
+- GPG Public Key
+https://github.com/hirmtsd.gpg
+
 - Twitter
 https://twitter.com/hirmtsd
 
